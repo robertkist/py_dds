@@ -1,4 +1,4 @@
-# py_dds_dev
+# pyDDS
 
 pyDDS is a loader for .DDS files for Python 3.9 and newer. It's a pure Python package without any external
 runtime dependencies.
