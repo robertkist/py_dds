@@ -1,0 +1,27 @@
+[GENERAL]
+output-format=colorized
+max-line-length=120
+
+[MESSAGES CONTROL]
+disable=missing-module-docstring,
+        too-many-arguments,
+        too-many-locals
+
+[DESIGN]
+min-public-methods=1
+
+[LOGGING]
+logging-format-style=new
+
+[BASIC]
+good-names=i,
+           j,
+           k,
+           x,
+           y,
+           r,
+           g,
+           b,
+           a,
+           fp,
+           _
